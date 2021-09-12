@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 'Wenli Yang'
+subtitle: 婷的小花园
+description: '左手代码右手诗'
 keywords:
-author: Young
+author: 'Wenli Yang'
 language:
 timezone:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://youngjlong.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
