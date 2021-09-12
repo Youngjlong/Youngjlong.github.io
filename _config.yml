@@ -9,7 +9,7 @@ description: ''
 keywords:
 author: Young
 language:
-timezone: ''
+timezone:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -102,7 +102,7 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: https://github.com/Youngjlong/youngjlong.github.io
-  branch: gh-pages
+#  type: git
+#  repo: https://github.com/Youngjlong/youngjlong.github.io
+#  branch: gh-pages
 

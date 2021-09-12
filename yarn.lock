@@ -41,15 +41,15 @@ acorn-globals@^6.0.0:
 
 acorn-walk@^7.1.1:
   version "7.2.0"
-  resolved "https://registry.nlark.com/acorn-walk/download/acorn-walk-7.2.0.tgz#0de889a601203909b0fbe07b8938dc21d2e967bc"
+  resolved "https://registry.nlark.com/acorn-walk/download/acorn-walk-7.2.0.tgz?cache=0&sync_timestamp=1630916608758&other_urls=https%3A%2F%2Fregistry.nlark.com%2Facorn-walk%2Fdownload%2Facorn-walk-7.2.0.tgz#0de889a601203909b0fbe07b8938dc21d2e967bc"
 
 acorn@^7.1.1:
   version "7.4.1"
   resolved "https://registry.nlark.com/acorn/download/acorn-7.4.1.tgz#feaed255973d2e77555b83dbc08851a6c63520fa"
 
 acorn@^8.2.4:
-  version "8.4.1"
-  resolved "https://registry.nlark.com/acorn/download/acorn-8.4.1.tgz#56c36251fc7cabc7096adc18f05afe814321a28c"
+  version "8.5.0"
+  resolved "https://registry.nlark.com/acorn/download/acorn-8.5.0.tgz#4512ccb99b3698c752591e9bb4472e38ad43cee2"
 
 agent-base@6:
   version "6.0.2"
@@ -63,7 +63,7 @@ amdefine@>=0.0.4:
 
 ansi-regex@^5.0.0:
   version "5.0.0"
-  resolved "https://registry.npm.taobao.org/ansi-regex/download/ansi-regex-5.0.0.tgz?cache=0&sync_timestamp=1618553044693&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fansi-regex%2Fdownload%2Fansi-regex-5.0.0.tgz#388539f55179bf39339c81af30a654d69f87cb75"
+  resolved "https://registry.nlark.com/ansi-regex/download/ansi-regex-5.0.0.tgz#388539f55179bf39339c81af30a654d69f87cb75"
 
 ansi-styles@^4.1.0:
   version "4.3.0"
@@ -193,7 +193,7 @@ command-exists@^1.2.8:
 
 commander@^5.1.0:
   version "5.1.0"
-  resolved "https://registry.nlark.com/commander/download/commander-5.1.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fcommander%2Fdownload%2Fcommander-5.1.0.tgz#46abbd1652f8e059bddaef99bbdcb2ad9cf179ae"
+  resolved "https://registry.nlark.com/commander/download/commander-5.1.0.tgz#46abbd1652f8e059bddaef99bbdcb2ad9cf179ae"
 
 compressible@~2.0.16:
   version "2.0.18"
@@ -673,7 +673,7 @@ html-encoding-sniffer@^2.0.1:
 
 htmlparser2@^6.0.0:
   version "6.1.0"
-  resolved "https://registry.nlark.com/htmlparser2/download/htmlparser2-6.1.0.tgz?cache=0&sync_timestamp=1630242689946&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fhtmlparser2%2Fdownload%2Fhtmlparser2-6.1.0.tgz#c4d762b6c3371a05dbe65e94ae43a9f845fb8fb7"
+  resolved "https://registry.nlark.com/htmlparser2/download/htmlparser2-6.1.0.tgz?cache=0&sync_timestamp=1631386311915&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fhtmlparser2%2Fdownload%2Fhtmlparser2-6.1.0.tgz#c4d762b6c3371a05dbe65e94ae43a9f845fb8fb7"
   dependencies:
     domelementtype "^2.0.1"
     domhandler "^4.0.0"
@@ -1173,7 +1173,7 @@ sprintf-js@~1.0.2:
 
 strip-ansi@^6.0.0:
   version "6.0.0"
-  resolved "https://registry.nlark.com/strip-ansi/download/strip-ansi-6.0.0.tgz#0b1571dd7669ccd4f3e06e14ef1eed26225ae532"
+  resolved "https://registry.nlark.com/strip-ansi/download/strip-ansi-6.0.0.tgz?cache=0&sync_timestamp=1631350330859&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fstrip-ansi%2Fdownload%2Fstrip-ansi-6.0.0.tgz#0b1571dd7669ccd4f3e06e14ef1eed26225ae532"
   dependencies:
     ansi-regex "^5.0.0"
 
@@ -1316,11 +1316,11 @@ warehouse@^4.0.0:
 
 webidl-conversions@^5.0.0:
   version "5.0.0"
-  resolved "https://registry.npm.taobao.org/webidl-conversions/download/webidl-conversions-5.0.0.tgz#ae59c8a00b121543a2acc65c0434f57b0fc11aff"
+  resolved "https://registry.nlark.com/webidl-conversions/download/webidl-conversions-5.0.0.tgz#ae59c8a00b121543a2acc65c0434f57b0fc11aff"
 
 webidl-conversions@^6.1.0:
   version "6.1.0"
-  resolved "https://registry.npm.taobao.org/webidl-conversions/download/webidl-conversions-6.1.0.tgz#9111b4d7ea80acd40f5270d666621afa78b69514"
+  resolved "https://registry.nlark.com/webidl-conversions/download/webidl-conversions-6.1.0.tgz#9111b4d7ea80acd40f5270d666621afa78b69514"
 
 whatwg-encoding@^1.0.5:
   version "1.0.5"
@@ -1355,8 +1355,8 @@ wrappy@1:
   resolved "https://registry.nlark.com/wrappy/download/wrappy-1.0.2.tgz?cache=0&sync_timestamp=1619133505879&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fwrappy%2Fdownload%2Fwrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
 
 ws@^7.4.6:
-  version "7.5.4"
-  resolved "https://registry.nlark.com/ws/download/ws-7.5.4.tgz?cache=0&sync_timestamp=1630167106943&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fws%2Fdownload%2Fws-7.5.4.tgz#56bfa20b167427e138a7795de68d134fe92e21f9"
+  version "7.5.5"
+  resolved "https://registry.nlark.com/ws/download/ws-7.5.5.tgz#8b4bc4af518cfabd0473ae4f99144287b33eb881"
 
 xml-name-validator@^3.0.0:
   version "3.0.0"
