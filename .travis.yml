@@ -1,21 +1,20 @@
-
-sudo: false
 language: node_js
 install:
-  - yarn
+  - npm install
 node_js:
-  - 12 # use nodejs v10 LTS
-cache: npm
+  - 12
+cache:
+  directories:
+    - node_modules
 branches:
   only:
-    - main # build master branch only
+    - main
 script:
-  - hexo generate # generate static files
+  - hexo clean
+  - hexo generate
 deploy:
   provider: pages
-  skip-cleanup: true
   github-token: $GH_TOKEN
-  keep-history: true
   on:
     branch: main
   local-dir: public
