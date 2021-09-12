@@ -1,20 +1,17 @@
 language: node_js
-install:
-  - npm install
 node_js:
   - 12
-cache:
-  directories:
-    - node_modules
+cache: npm
 branches:
   only:
     - main
 script:
-  - hexo clean
   - hexo generate
 deploy:
   provider: pages
+  skip-cleanup
   github-token: $GH_TOKEN
+  keep-history: true
   on:
     branch: main
   local-dir: public
